@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NINGANNA</h1>
-<h3 align="center">Student  ~BTech</h3>
+<h3 align="center">Student  ~BTech[SNPSU B'lore]</h3>
 
 - 📫 How to reach me **shirashyadpundalik@gmail.com**
 
